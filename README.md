@@ -1,7 +1,7 @@
 # PHP TECNOTECH
  Um prototipo de cadastro de associados com pagamento de anuidade
 
- 1- Baixe o xamp
+ 1- Baixe o xamp \n
  2 - mova a pasta baixada para o local C:\xampp\htdocs
  3-execute o apache e o SQL
  4- entre em http://localhost/phpmyadmin/ e crie um novo banco de danos com nome meu_database
